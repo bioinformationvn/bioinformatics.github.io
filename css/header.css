@@ -7,10 +7,12 @@
 	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar-section ul.left {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar.expanded .title-area {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 @media only screen and (min-width: 40.063em) {
     .top-bar-section ul.left {
@@ -18,19 +20,24 @@
     }
 }
 .top-bar-section li:not(.has-form) a:not(.button):hover {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar-section ul li:hover:not(.has-form) > a {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar-section li:not(.has-form) a:not(.button) {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar-section li a:not(.button) {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar-section li a:not(.button) {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 a.blog:hover {
     background: #7D1935;
