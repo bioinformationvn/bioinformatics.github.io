@@ -42,8 +42,8 @@ span.name {
 }
 .top-bar {
     background: #171717;
-    /*    background: rgb(23, 23, 23);*/
-    background: rgba(23, 23, 23, 0.8);
+    /*background: rgba(23, 23, 23, 0.8);*/
+	background: url('img/bio.jpg') no-repeat;
     height: 60px;
     padding-top: 7px;
 }
