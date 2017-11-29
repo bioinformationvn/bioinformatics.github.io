@@ -1,6 +1,6 @@
 
 
-bioinformationvn.github.io
+bioinformationvn
 ====================
 
 ## Begin gephi, bioinformation, etc in github!
