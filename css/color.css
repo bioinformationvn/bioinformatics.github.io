@@ -24,6 +24,10 @@ button:hover, .button:hover {
 }
 .top-bar, .top-bar.expanded {
     background: rgba(0, 181, 173,0.8);
+<<<<<<< HEAD
+=======
+    /*background: url('img/bio.jpg') no-repeat;*/
+>>>>>>> 5753465c7c62d7397d1c8894e0259182f0aac585
 }
 li.menu-icon i {
     color: rgb(148, 223, 219);
