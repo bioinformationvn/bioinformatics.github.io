@@ -3,7 +3,8 @@
     font-size: 2em;
 }
 .top-bar-section ul {
-    background: none;
+    /*background: none;*/
+	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar-section ul.left {
     background: none;
