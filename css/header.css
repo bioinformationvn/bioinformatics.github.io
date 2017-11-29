@@ -42,16 +42,15 @@ span.name {
 }
 .top-bar {
     background: #171717;
-    /*background: rgba(23, 23, 23, 0.8);*/
-	background: url('img/bio.jpg') no-repeat;
+    background: rgba(23, 23, 23, 0.8);
+	/*background: url('img/bio.jpg') no-repeat;*/
     height: 60px;
     padding-top: 7px;
 }
 .top-bar.expanded {
     background: #171717;
-    
-    /*background: rgba(23, 23, 23, 0.8);*/
-	background: url('img/bio.jpg') no-repeat;
+    background: rgba(23, 23, 23, 0.8);
+	/*background: url('img/bio.jpg') no-repeat;*/
 }
 .top-bar .title-area {
     height: 100%;
