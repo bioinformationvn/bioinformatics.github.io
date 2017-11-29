@@ -23,7 +23,8 @@ button:hover, .button:hover {
     background: rgba(0, 181, 173,0.7);
 }
 .top-bar, .top-bar.expanded {
-    background: rgba(0, 181, 173,0.8);
+    /*background: rgba(0, 181, 173,0.8);*/
+	background: url('img/bio.jpg') no-repeat;
 }
 li.menu-icon i {
     color: rgb(148, 223, 219);

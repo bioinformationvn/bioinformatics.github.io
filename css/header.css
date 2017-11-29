@@ -49,8 +49,9 @@ span.name {
 }
 .top-bar.expanded {
     background: #171717;
-    /*    background: rgb(23, 23, 23);*/
-    background: rgba(23, 23, 23, 0.8);
+    
+    /*background: rgba(23, 23, 23, 0.8);*/
+	background: url('img/bio.jpg') no-repeat;
 }
 .top-bar .title-area {
     height: 100%;
